@@ -294,9 +294,5 @@ defaults:
 #write
 futrue: true
 
-nav:
-  - title: "til"
-    url: /pages/til/
-  - title: "CS"
-    url: /pages/cs/
+
 
