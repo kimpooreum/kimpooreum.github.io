@@ -293,3 +293,7 @@ defaults:
 
 #write
 futrue: true
+
+nav:
+  - title: "TIL"
+    url: /til/
