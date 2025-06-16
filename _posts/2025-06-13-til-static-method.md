@@ -1,7 +1,7 @@
 ---
 title: "[TIL] static 메서드 정리"
 date: 2025-06-13
-categories: [TIL]
+categories: [til]
 tags: [Java, Method]
 ---
 
