@@ -295,7 +295,7 @@ defaults:
 futrue: true
 
 nav:
-  - title: "TIL"
+  - title: "til"
     url: /pages/til/
   - title: "CS"
     url: /pages/cs/
