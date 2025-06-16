@@ -1,12 +1,27 @@
 main:
   - title: "TIL"
-    url: /pages/til/
+    url: /til/
     children:
       - title: "Java"
-        url: /pages/til/java/
-      - title: "Python"
-        url: /pages/til/python/
+        url: /til/java/
+      - title: "Spring"
+        url: /til/spring/
+      - title: "Git"
+        url: /til/git/
   - title: "CS"
-    url: /pages/cs/
+    url: /cs/
+    children:
+      - title: "자료구조"
+        url: /cs/data-structure/
+      - title: "네트워크"
+        url: /cs/network/
+      - title: "운영체제"
+        url: /cs/os/
+  - title: "Project"
+    url: /projects/
+  - title: "Error Log"
+    url: /errors/
+  - title: "Essay"
+    url: /essay/
   - title: "About"
-    url: /pages/about/
+    url: /about/
