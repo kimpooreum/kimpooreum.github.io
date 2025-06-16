@@ -1,16 +1,6 @@
 ---
-layout: default
-title: TIL
+title: "📝 TIL 목록"
+layout: categories
 permalink: /til/
+taxonomy: TIL
 ---
-
-# 📝 Today I Learned (TIL)
-
-<ul>
-  {% for post in site.categories.TIL %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
-    </li>
-  {% endfor %}
-</ul>
-
