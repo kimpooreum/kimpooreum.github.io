@@ -1,6 +1,6 @@
 ---
-title: "📝 TIL 목록"
-layout: categories
-permalink: /til/
-taxonomy: TIL
+layout: category
+title: "TIL"
+permalink: /pages/til/
+taxonomy: til
 ---
