@@ -1,5 +1,12 @@
 main:
   - title: "TIL"
     url: /pages/til/
+    children:
+      - title: "Java"
+        url: /pages/til/java/
+      - title: "Python"
+        url: /pages/til/python/
   - title: "CS"
     url: /pages/cs/
+  - title: "About"
+    url: /pages/about/
